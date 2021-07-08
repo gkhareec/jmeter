@@ -23,5 +23,6 @@ volumes:
     size: 10Gi
 
 properties:
-    TESTPLAN_FILENAME: lyc_healthcheck_v1.jmx  
+    TESTPLAN_FILENAME: lyc_healthcheck_v1.jmx
+    TEST_NAME: lyc_healthcheck_v1
     revision: 2
