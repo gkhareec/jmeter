@@ -11,7 +11,7 @@ build:
     image_template: jmeter-5.3
 
 deploy:
-    context: gkhareec/dev-local
+    context: gkhareec/Dev
     type: statefulset
     replicas: 1
     port:
