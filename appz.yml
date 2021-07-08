@@ -24,5 +24,4 @@ volumes:
 
 properties:
     TESTPLAN_FILENAME: lyc_healthcheck_v1.jmx
-    TEST_NAME: HC
     revision: 11
