@@ -24,4 +24,10 @@ volumes:
 
 properties:
     TESTPLAN_FILENAME: lyc_healthcheck_v1.jmx
-    revision: 11
+    JMETER_BASE_URL_1: devclever-india-dev-lyc-diagnostic-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_2: devclever-india-dev-lyc-account-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_3: devclever-india-dev-lyc-career-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_4: devclever-india-dev-lyc-passport-0-4.0de945bd.lowtouch.cloud
+    JMETER_BASE_URL_5: devclever-india-dev-lyc-web-0-4.0de945bd.lowtouch.cloud
+    TEST_NAME: sanity_hc
+    revision: 15
